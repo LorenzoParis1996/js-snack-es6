@@ -8,6 +8,10 @@ nome dell'ospite (guestName),
 posto occupato (place),
 Generiamo e stampiamo in console la lista per i segnaposto.
 
+- creo array lista invitati e variabile per tavolo vip
+- creo nuova variabile con metodo map, che mi restituisce un nuovo array sotto forma di oggetto letterale
+- stampo con console.log
+
 
 SNACK 2
 Abbiamo un elenco degli studenti di una facoltà, identificati da id, Nome e somma totale dei loro voti di esame...
