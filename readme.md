@@ -28,3 +28,8 @@ Id  Name                Grades
 196 Luigi Grimaldello       68
 102 Piero della Francesca   50
 120 Francesca da Polenta    84
+
+- creo array con lista studenti
+- creo un ciclo for in per selezionare il nome degli studenti e trasformarlo tutto in maiuscolo
+- creo una variabile con metodo filter per gli studenti con voti superiori a 70
+- creo un ciclo for per filtrare studenti con voti superiori a 70 e id superiori a 120
