@@ -51,6 +51,10 @@ Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0
 Generare numeri random al posto degli 0 nelle proprietà: punti fatti e falli subiti.
 Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
 
+- creo array oggetti
+-  creo variabile con nuovo array in cui vengono generati casualmente punti e falli
+- creo variabile con nuovo array in cui stampo solo nome e falli
+
 
 BONUS 1: SNACK 5
 Abbiamo questa lista di articoli di moda:
