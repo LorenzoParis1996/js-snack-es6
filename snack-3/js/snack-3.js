@@ -41,7 +41,21 @@ const biciclette = [
     }
 ];
 
-const biciLight = biciclette[4];
+console.log(biciclette);
 
-const { nome, peso } = biciLight;
-console.log(`${biciLight.nome}, ${biciLight.peso}`);
+let pesoLight = biciclette[0].peso;
+for (let i = 0; i < biciclette.length; i++) {
+    if (biciclette[i].peso < pesoLight) {
+        pesoLight = biciclette[i].peso;
+    }
+};
+
+const biciLight = biciclette.filter((element) => {
+    if (element.peso === pesoLight) {
+        return true
+    }
+});
+
+const { nome, peso } = biciLight[0];
+
+console.log(`modello bici:${nome},peso modello:${peso}kg`);

@@ -41,8 +41,9 @@ Ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e pe
 Stampare in console la bici con peso minore utilizzando destructuring e template literal
 
 - creo array oggetti
-- creo variabile in cui indico l'index della bici piu' leggera
-- destrutturo con nuova variabile e stampo con template literal su console
+- creo variabile e ciclo for con condizione per trovare il peso minore
+- filtro il peso minore
+- destrutturo e stampo con template literal
 
 
 SNACK 4
